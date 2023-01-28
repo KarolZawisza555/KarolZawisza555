@@ -1,30 +1,17 @@
-## Hi there 👋
+# Front-End Developer
 
+## _Favorite technologies:_
 
-## Favorite technologies:
-JavaScript
-Vue2 @ Vue3
-Quasar
-Vuetify
-Vuex
-Pinia
-Sass
+- Vue 3
+- Vue 2
+- Quasar
+- Vuex
+- Pinia
+- Vuetify
 
-
-## Sometimes
-Bash, Python, Django, SQL, REDIS
-
-<!--
-**KarolZawisza555/KarolZawisza555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sometimes:
+- Python
+- Django
+- Bash
+- Redis
+- SQL
