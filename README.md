@@ -10,8 +10,10 @@ Vuex
 Pinia
 Sass
 
+
 ## Sometimes
-Bash, Python, Django, SQL, REDiS
+Bash, Python, Django, SQL, REDIS
+
 <!--
 **KarolZawisza555/KarolZawisza555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
