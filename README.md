@@ -1,6 +1,7 @@
-##Hi there 👋
+## Hi there 👋
 
-# Favorite technologies:
+
+## Favorite technologies:
 JavaScript
 Vue2 @ Vue3
 Quasar
@@ -9,7 +10,7 @@ Vuex
 Pinia
 Sass
 
-# Sometimes
+## Sometimes
 Bash, Python, Django, SQL, REDiS
 <!--
 **KarolZawisza555/KarolZawisza555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
