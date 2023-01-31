@@ -3,6 +3,7 @@
 ## _Favorite technologies:_
 
 - Vue 3
+- Nuxt 3
 - Vue 2
 - Quasar
 - Vuex
