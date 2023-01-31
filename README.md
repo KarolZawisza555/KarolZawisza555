@@ -12,6 +12,8 @@
 ## Sometimes:
 - Python
 - Django
+- React
+- Material
 - Bash
 - Redis
 - SQL
