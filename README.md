@@ -15,3 +15,6 @@
 - Bash
 - Redis
 - SQL
+
+## My previous account
+https://github.com/kzresume/
