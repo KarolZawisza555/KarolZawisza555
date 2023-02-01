@@ -1,8 +1,11 @@
 # Front-End Developer
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nuxtjs,sass,vite,vscode)](https://skillicons.dev)
 
 Hello I'm Karol.
 Engineer with a passion for IT and increasing productivity.
+In spare time linux and respberry pi 4 or zero
+[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,)](https://skillicons.dev)
+
 
 
 ## To recruiters
