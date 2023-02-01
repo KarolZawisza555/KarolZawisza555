@@ -12,7 +12,7 @@ In spare time linux and respberry pi 4 or zero
 I am currently looking for an FE job with Vue technology.
 If you are interested in cooperation, please contact me via linkedin.
 If you need information about my skills, I'm happy to do any task and put it in my repo and online.
-Let me know if you want a project with other libraries. I will be ready in few days. :-)
+Let me know if you want a project with other libraries. It will be ready in few days. :-)
 
 ## Live project:
 
