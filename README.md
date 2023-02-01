@@ -48,9 +48,6 @@ Let me know if you want a project with other libraries. It will be ready in few 
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 
-## My previous account
-https://github.com/kzresume/
-
 ### You can find in me in the web 🌍
 
 <p align="left">
