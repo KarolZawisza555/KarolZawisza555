@@ -1,4 +1,5 @@
 # Front-End Developer
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue)](https://skillicons.dev)
 
 Hello I'm Karol.
 Engineer with a passion for IT and increasing productivity.
