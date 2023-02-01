@@ -1,5 +1,16 @@
 # Front-End Developer
-My projects online:
+
+Hello I'm Karol.
+Engineer with a passion for IT and increasing productivity.
+
+
+## To recruiters
+
+I am currently looking for an FE job with Vue technology.
+If you are interested in cooperation, please contact me via linkedin.
+If you need information about my skills, I'm happy to do any task and put it in my repo.
+
+## My projects online:
 
 https://zawiszakarol.netlify.app/
 
