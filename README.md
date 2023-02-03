@@ -3,17 +3,17 @@
 
   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> Hello I'm Karol.
   
-Engineer with a passion for IT and increasing productivity.
- I have a passion for creating engaging and interactive user experiences. With 2 years of experience in the field, I have a solid understanding of HTML, CSS, and JavaScript and have experience working with a variety of front-end frameworks such as Vue and React.I am constantly seeking new challenges and opportunities to expand my skillset and stay up-to-date with the latest industry trends and technologies.I am a team player and enjoy collaborating with designers, back-end developers, and clients to deliver
+Engineer with a passion for IT and ways to increase productivity.
+ I have a passion for creating engaging and interactive user experiences. With 2 years of experience, I have a solid understanding of HTML, CSS, and JavaScript and have experience in working with a variety of front-end frameworks such as Vue and React. I am constantly seeking for new challenges and opportunities to expand my skillset and stay up-to-date with the latest industry trends and technologies. I am a team player and enjoy collaborating with designers, back-end developers, and clients to deliver
 solid  results.
 
 
 
 ## To recruiters
 
-I am currently looking for an FE job with Vue technology.
+I am currently looking for an FE position job with Vue technology.
 If you are interested in cooperation, please contact me via linkedin.
-If you need information about my skills, I'm happy to do any task and put it in my repo and online.
+If you need information about my skills, I'd be happy to do any task and put it in my repo and online.
 Let me know if you want a project with other libraries. It will be ready in few days. :-)
 
 ## Live project:
