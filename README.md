@@ -1,13 +1,14 @@
 # Front-End Developer
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nuxtjs,sass,vite,vscode,linux,raspberrypi)](https://skillicons.dev)
 
-Hello I'm Karol.
+  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> Hello I'm Karol.
+  
 Engineer with a passion for IT and increasing productivity.
 In spare time linux and respberry pi 4 or zero
 
 
 
-## To recruiters <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+## To recruiters
 
 I am currently looking for an FE job with Vue technology.
 If you are interested in cooperation, please contact me via linkedin.
