@@ -4,7 +4,8 @@
   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> Hello I'm Karol.
   
 Engineer with a passion for IT and increasing productivity.
-In spare time linux and respberry pi 4 or zero
+ I have a passion for creating engaging and interactive user experiences. With 2 years of experience in the field, I have a solid understanding of HTML, CSS, and JavaScript and have experience working with a variety of front-end frameworks such as Vue and React.I am constantly seeking new challenges and opportunities to expand my skillset and stay up-to-date with the latest industry trends and technologies.I am a team player and enjoy collaborating with designers, back-end developers, and clients to deliver
+solid  results.
 
 
 
