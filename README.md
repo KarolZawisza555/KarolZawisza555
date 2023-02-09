@@ -18,9 +18,9 @@ Let me know if you want a project with other libraries. It will be ready in few 
 
 ## Live project:
 
-[Portfolio website ](https://zawiszakarol.netlify.app/ "portfolio website")
+[Portfolio website ](https://zawiszakarol.netlify.app/ "portfolio website")[![Netlify Status](https://api.netlify.com/api/v1/badges/5a20337f-3d8e-4ce0-9f1d-9a28d645d115/deploy-status)](https://app.netlify.com/sites/zawiszakarol/deploys)
 
-[Security day ](https://securityday.netlify.app/ "portfolio website")
+[Security day ](https://securityday.netlify.app/ "portfolio website") [![Netlify Status](https://api.netlify.com/api/v1/badges/3bb775a0-31e0-47f1-9312-24295e8b331a/deploy-status)](https://app.netlify.com/sites/securityday/deploys)
 
 [Registration vuelidate ](https://registrationvuelidate.netlify.app/ "registrationvuelidate") [![Netlify Status](https://api.netlify.com/api/v1/badges/2a671fef-350c-441c-b6f8-385bb4bcb4c6/deploy-status)](https://app.netlify.com/sites/registrationvuelidate/deploys)
 
