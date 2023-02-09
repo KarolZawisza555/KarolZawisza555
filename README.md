@@ -22,7 +22,7 @@ Let me know if you want a project with other libraries. It will be ready in few 
 
 [Security day ](https://securityday.netlify.app/ "portfolio website")
 
-[Registration vuelidate ](https://registrationvuelidate.netlify.app/ "registrationvuelidate)
+[Registration vuelidate ](https://registrationvuelidate.netlify.app/ "registrationvuelidate")
 
 
 ## _Favorite technologies:_
