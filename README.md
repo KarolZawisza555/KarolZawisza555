@@ -24,6 +24,8 @@ Let me know if you want a project with other libraries. It will be ready in few 
 
 [Registration vuelidate ](https://registrationvuelidate.netlify.app/ "registrationvuelidate") [![Netlify Status](https://api.netlify.com/api/v1/badges/2a671fef-350c-441c-b6f8-385bb4bcb4c6/deploy-status)](https://app.netlify.com/sites/registrationvuelidate/deploys)
 
+[Bootstrap5 ](https://p4421.netlify.app/ "Bootstrap5") [![Netlify Status](https://api.netlify.com/api/v1/badges/2a671fef-350c-441c-b6f8-385bb4bcb4c6/deploy-status)](https://app.netlify.com/sites/registrationvuelidate/deploys)
+
 
 ## _Favorite technologies:_
 
