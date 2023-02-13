@@ -29,6 +29,8 @@ Let me know if you want a project with other libraries. It will be ready in few 
 [Vuelidate with animate.css ](https://stellar-cucurucho-892c8b.netlify.app/ "Velidate and animate.css") 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/15895d48-e27f-4a06-9ca7-a34933d0c0ea/deploy-status)](https://app.netlify.com/sites/stellar-cucurucho-892c8b/deploys)
 
+[Iconify](https://show-iconify.netlify.app/ "Iconify") [![Netlify Status](https://api.netlify.com/api/v1/badges/28d52079-e9ac-40b2-b16e-e6363640e167/deploy-status)](https://app.netlify.com/sites/show-iconify/deploys)
+
 
 ## _Favorite technologies:_
 
