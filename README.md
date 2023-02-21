@@ -1,4 +1,5 @@
 # Front-End Developer
+##  www.karolzawisza.pl
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,nuxtjs,sass,vite,vscode,linux,raspberrypi)](https://skillicons.dev)
 
   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> Hello I'm Karol.
@@ -18,7 +19,7 @@ Let me know if you want a project with other libraries. It will be ready in few 
 
 ## Live project:
 
-[Portfolio website ](https://zawiszakarol.netlify.app/ "portfolio website")[![Netlify Status](https://api.netlify.com/api/v1/badges/5a20337f-3d8e-4ce0-9f1d-9a28d645d115/deploy-status)](https://app.netlify.com/sites/zawiszakarol/deploys)
+[Portfolio Vuetify ](https://zawiszakarol.netlify.app/ "portfolio website")[![Netlify Status](https://api.netlify.com/api/v1/badges/5a20337f-3d8e-4ce0-9f1d-9a28d645d115/deploy-status)](https://app.netlify.com/sites/zawiszakarol/deploys)
 
 [Security day ](https://securityday.netlify.app/ "portfolio website") [![Netlify Status](https://api.netlify.com/api/v1/badges/3bb775a0-31e0-47f1-9312-24295e8b331a/deploy-status)](https://app.netlify.com/sites/securityday/deploys)
 
